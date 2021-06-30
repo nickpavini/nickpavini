@@ -5,7 +5,7 @@ Converting abstract ideas into a working solutions. 🖥️
 
 <ins>Current Stack:</ins> C# (.NET), ReactJS, MySQL
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=brightgreen&label=profile+views)
+![](https://komarev.com/ghpvc/?username=nickpavini&style=plastic&color=brightgreen&label=profile+views)
 
 ##  Links 🔗:
 
