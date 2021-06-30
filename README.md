@@ -1,7 +1,7 @@
 ## Hello. 👋 My name is Nicholas Pavini 😄
 
 
-Converting abstract ideas into a working solutions. ❤️
+Converting abstract ideas into a working solutions. 🖥️
 
 <ins>Current Stack:</ins> C# (.NET), ReactJS, MySQL
 
