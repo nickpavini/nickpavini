@@ -5,8 +5,6 @@ Converting abstract ideas into a working solutions. 🖥️
 
 <ins>Current Stack:</ins> C# (.NET), ReactJS, MySQL
 
-![](https://komarev.com/ghpvc/?username=nickpavini&style=plastic&color=brightgreen&label=profile+views)
-
 ##  Links 🔗:
 
 📄 Read my technical resume [Here](https://drive.google.com/file/d/1oEKsaUP_D6xInZW-XrCkw4H7insS2d3m/view?usp=sharing)
