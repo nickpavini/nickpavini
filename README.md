@@ -1,9 +1,9 @@
-## Hello. 👋 My name is Nicholas Pavini 😄
+## Hello. 👋 My name is Nicholas Pavini
 
 
-Converting abstract ideas into a working solutions. 🖥️
+I enjoy Full Stack Development and Designing Software Architecture. 🖥️
 
-<ins>Current Stack:</ins> C# (.NET), ReactJS, MySQL
+<ins>My Current Stack:</ins> C# (.NET), ReactJS, MySQL
 
 ##  Links 🔗:
 
