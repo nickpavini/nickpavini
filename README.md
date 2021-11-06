@@ -9,7 +9,7 @@ I enjoy Full Stack Development and Designing Software Architecture. 🖥️
 
 🔭 Secure your passwords with https://www.safeaccounts.net/
 
-📄 Read my technical resume [Here](https://drive.google.com/file/d/1oEKsaUP_D6xInZW-XrCkw4H7insS2d3m/view?usp=sharing)
+📄 Read my technical resume [Here](https://drive.google.com/file/d/1ws2l7BIj1ylF6gzA5t4YGl286y04qQLt/view?usp=sharing)
 
 ⚡ Check out my portfolio [Here](https://drive.google.com/file/d/1XmMy_zWICJ2oaUu8F_CgXucXMWXZkN6j/view?usp=sharing)
 
