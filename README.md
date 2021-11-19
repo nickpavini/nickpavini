@@ -11,7 +11,9 @@ I enjoy Full Stack Development and Designing Software Architecture. 🖥️
 
 📄 Read my technical resume [Here](https://drive.google.com/file/d/1ws2l7BIj1ylF6gzA5t4YGl286y04qQLt/view?usp=sharing)
 
-⚡ Check out my portfolio [Here](https://drive.google.com/file/d/1XmMy_zWICJ2oaUu8F_CgXucXMWXZkN6j/view?usp=sharing)
+💬 View my online portfolio [Here](https://nickpavini.github.io/) 
+
+⚡ Check out a small physical portfolio [Here](https://drive.google.com/file/d/1XmMy_zWICJ2oaUu8F_CgXucXMWXZkN6j/view?usp=sharing)
 
 📧 Email me at nickpavini@gmail.com
 
