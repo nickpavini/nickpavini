@@ -3,7 +3,7 @@
 
 I enjoy Full Stack Development and Designing Software Architecture. 🖥️
 
-<ins>My Current Stack:</ins> C# (.NET), ReactJS, MySQL
+<ins>Familiar Stacks:</ins> C# (.NET), Java (Spring), ReactJS, MySQL
 
 ##  Links 🔗:
 
