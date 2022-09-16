@@ -7,7 +7,7 @@ I enjoy Full Stack Development and Designing Software Architecture. 🖥️
 
 ##  Links 🔗:
 
-🔭 Secure your passwords with https://www.safeaccounts.net/
+🔭 Try my open-source password manager https://www.safeaccounts.net/
 
 📄 Read my technical resume [Here](https://drive.google.com/file/d/1ws2l7BIj1ylF6gzA5t4YGl286y04qQLt/view?usp=sharing)
 
